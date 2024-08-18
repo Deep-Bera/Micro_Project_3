@@ -12,8 +12,8 @@ body {
 }
 .container {
   height: 60vh;
-  width: 275px;
-  border: 2px solid red;
+  width: 285px;
+  /* border: 2px solid red; */
   min-height: 8.1rem;
   min-width: 9.3rem;
   /* display: flex;
@@ -26,8 +26,8 @@ body {
   grid-template-columns: repeat(4, 1fr);
   background: #252d44;
   margin-top: 7px;
-  border: 2px solid white;
-  padding: 4px;
+  /* border: 2px solid white; */
+  padding: 10px;
   border-radius: 8px;
   font-family: "inter", sans-serif;
   font-size: 0.4rem;
@@ -40,7 +40,7 @@ body {
   height: 35px;
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px #00000040;
-  margin: 4px 1px;
+  margin: 5px 2px;
   border: none;
   font-family: "inter", sans-serif;
   font-size: 15px;
